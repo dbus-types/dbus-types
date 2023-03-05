@@ -1,0 +1,27 @@
+{
+  "name": "@dbus-types/accountsservice",
+  "version": "0.0.3",
+  "description": "accountsservice D-BUS Definitions",
+  "types": "accountsservice.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbus-types/dbus-types.git"
+  },
+  "keywords": [
+    "dbus",
+    "accountsservice",
+    "typescript"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbus-types/dbus-types/issues"
+  },
+  "homepage": "https://github.com/dbus-types/dbus-types#readme",
+  "dependencies": {
+    "@dbus-types/common": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16"
+  }
+}

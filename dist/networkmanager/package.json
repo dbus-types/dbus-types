@@ -1,0 +1,27 @@
+{
+  "name": "@dbus-types/networkmanager",
+  "version": "0.0.3",
+  "description": "networkmanager D-BUS Definitions",
+  "types": "networkmanager.d.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbus-types/dbus-types.git"
+  },
+  "keywords": [
+    "dbus",
+    "networkmanager",
+    "typescript"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dbus-types/dbus-types/issues"
+  },
+  "homepage": "https://github.com/dbus-types/dbus-types#readme",
+  "dependencies": {
+    "@dbus-types/common": "^0.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^16"
+  }
+}
